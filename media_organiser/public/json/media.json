@@ -1,0 +1,78 @@
+{
+    "Songs": [
+        {
+            "FileName": "Both of us",
+            "FilePath": "/media/both-of-us.mp3",
+            "MediaFileType": "mp3",
+            "Comment": "Song comment",
+            "Image": {
+                "FileName": "river-cover.jpg",
+                "FilePath": "/images/river-cover.jpg"
+            },
+            "Category": [
+                "Jazz",
+                "Instrumental"
+            ]
+        },
+        {
+            "FileName": "Order",
+            "FilePath": "/media/order.mp3",
+            "MediaFileType": "mp3",
+            "Comment": "Song comment",
+            "Image": {
+                "FileName": null,
+                "FilePath": null
+            },
+            "Category": [
+                "Electro",
+                "Jazz"
+            ]
+        },
+        {
+            "FileName": "Prince Of Freedom",
+            "FilePath": "/media/prince-of-freedom.mp3",
+            "MediaFileType": "mp3",
+            "Comment": "Song comment",
+            "Image": {
+                "FileName": "bubbles.jpg",
+                "FilePath": "images/bubbles.jpg"
+            },
+            "Category": [
+                "Instrumental",
+                "Jazz"
+            ]
+        }
+    ],
+    "Category": [
+        {
+            "Category": "Jazz",
+            "ImagePath": "/images/placeholder.jpg"
+        },
+        {
+            "Category": "Instrumental",
+            "ImagePath": null
+        },
+        {
+            "Category": "Electro",
+            "ImagePath": "/images/river-cover.jpg"
+        }
+    ],
+    "Playlist": [
+        {
+            "Name": "Relaxing Music",
+            "ImagePath": "/images/bubbles.jpg",
+            "Songs": [
+                "Prince Of Freedom",
+                "Both of us"
+            ]
+        },
+        {
+            "Name": "Background Music",
+            "ImagePath": "/images/placeholder.jpg",
+            "Songs": [
+                "Order",
+                "Both of us"
+            ]
+        }
+    ]
+}
